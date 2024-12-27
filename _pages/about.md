@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+My research interest includes convex analysis, monotone operator theory and variational analysis.
 
 A data-driven personal website
 ======
