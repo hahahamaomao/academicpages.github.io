@@ -8,4 +8,6 @@ redirect_from:
 ---
 I'm currently a graduate student at the University of British Columbia.
 
-My research interest includes convex analysis, monotone operator theory and variational analysis.
+Research interests
+======
+Convex analysis, monotone operator theory and variational analysis.
